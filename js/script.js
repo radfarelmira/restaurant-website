@@ -1,4 +1,4 @@
-// -------------------loading page-------------------------
+
 window.addEventListener("load", function(){
     // ---------------page loader--------------------------
     document.querySelector(".page-loader").classList.add("fade-out");
